@@ -1,6 +1,6 @@
 ---
 title: "Graphs for project"
-author: "vaishali"
+
 date: "2023-11-21"
 output:
   html_document:
